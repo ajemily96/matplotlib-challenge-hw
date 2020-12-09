@@ -12,7 +12,7 @@ The ratio of male and female mice is 49% to 51% after removing the one female mo
 
 ![Sex Representation Pie Chart](https://wustl.bootcampcontent.com/AEmily96/matplotlib-challenge/blob/master/Resources/GenderRepresentation.JPG)
 
-## Final Results ('Capomulin', 'Ramicane', 'Infubinol', 'Ceftamin')
+## Outliers ('Capomulin', 'Ramicane', 'Infubinol', 'Ceftamin')
 
 There are **0** outliers in our data set for Capomulin, Ramicane, Infubinol, and Ceftamin.
 
@@ -23,3 +23,8 @@ We can see this reflected in our box plot by a lack of points outside of the wis
 The average tumor size for the 4 treatments of interest is **47.19779518949999 mm3**.
 * Upper Bound: **94.04403868375002** 	 
 * Lower Bound: **3.0739668737499812**
+
+## Distribution of Treatment Testing
+I find it strange that the number of records is not the same between each treatment. You would think that in this study the scientest would have wanted to keep the number of recordings and the timing of the recording constant per treatment.
+
+![Record Counts per Treatment](https://wustl.bootcampcontent.com/AEmily96/matplotlib-challenge/blob/master/Resources/RecordCounts.JPG)
