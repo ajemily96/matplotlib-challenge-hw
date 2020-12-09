@@ -25,6 +25,6 @@ The average tumor size for the 4 treatments of interest is **47.19779518949999 m
 * Lower Bound: **3.0739668737499812**
 
 ## Distribution of Treatment Testing
-I find it strange that the number of records is not the same between each treatment. You would think that in this study the scientest would have wanted to keep the number of recordings and the timing of the recording constant per treatment.
+I find it strange that the number of records is not the same between each treatment. You would think that in this study the scientist would have wanted to keep the number of recordings and the timing of the recording constant per treatment.
 
 ![Record Counts per Treatment](https://wustl.bootcampcontent.com/AEmily96/matplotlib-challenge/blob/master/Resources/RecordCounts.JPG)
